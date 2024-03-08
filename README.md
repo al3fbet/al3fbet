@@ -29,15 +29,27 @@
   <tbody>
     <tr>
     <td>
+    <td>
+    <td>
+    <td>
+    <td>
     </tr>
 	  <tr>
     <td>
+    <td>
+    <td>
+    <td>
+    <td>
     </tr>
     <tr>
+    <td>
+    <td>
+    <td>
+    <td>
     <td>
     </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
 <hr>
-My name is Ryan and today is Friday, 8 March at 05:16 CET.
+My name is Ryan and today is Friday, 8 March at 05:18 CET.
