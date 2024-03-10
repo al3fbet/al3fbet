@@ -3,7 +3,9 @@
 
 *First and foremost*,
 
-I would like to declare that in **no way** was this *page or profile* created to serve as any kind of shrine or idol. Technology is meant to be *respected*; it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
+I would like to declare that in **no way** was this *page or profile* created to serve as any kind of shrine or idol. 
+
+**Technology is meant** to be *respected*; it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
 
 This page and my portfolio is to serve or aid in my learning process and research all while collaborating with other cool and like minded developers.
 
