@@ -17,7 +17,7 @@ I will be working on and contributing to my projects constantly throughout the w
 
 I'm creating and designing as I am learning and going to school. I do not consider myself a professional, I believe in the eyes of God we are all students and technically always will be.<br><br>I am a student of **Torah** first and *everything else is secondary*.<br><br> Currently, I've lately been focusing more on learning comp-sci so that I can apply it to my Hebrew, Bible, and Math studies in the future.  
 
-I have decided to pursue Software Engineering and Full Stack Development<br><br>I like designing, and I am passionate to learn and understand how things works on the front end and back end.<br><br>I have some prior knowledge and work doing sysadmin duties working mostly with assorted servers and services on openBSD and Linux.<br>
+I have decided to pursue Software Engineering and Full Stack Development<br><br>I like designing, and I am passionate to learn and understand how things work on the front end and back end.<br><br>I have some prior knowledge and work doing sysadmin duties working mostly with assorted servers and services on openBSD and Linux.<br>
 
 
 
@@ -48,12 +48,10 @@ For all that do these things are an abomination unto the LORD: and because of th
 
 ## For those who aren't religious and don't believe in God:<br>
 
-You are entitled to your beliefs just as I am entitled to mine, please do not think that I am against you or purposely trying to attack you.
+You are entitled to your beliefs just as I am entitled to mine, please do not think that I am against you in any way.
 <br>
 
 Please feel free to reach out and ask me about my journey and testimony, let me hear yours. I've experienced and have been through alot, maybe you have too.
-
-Perhaps it may turn into a great and real friendship.
 
 Follow my GitHub and say hello!<br><br> Thanks!
 
@@ -83,7 +81,7 @@ Follow my GitHub and say hello!<br><br> Thanks!
   </thead>
   <tbody>
     <tr>
-    <td>
+    <td> 
     <td>
     <td>
     <td>
