@@ -25,7 +25,6 @@ I have decided to pursue Software Engineering and Full Stack Development<br><br>
 
 ## For those who are religious and believe in God:<br><br>
 
-## This is the beginning and the start of my journey for my research in a more structured and professional way<br>
 
 	** ATTENTION **
 	
@@ -51,8 +50,7 @@ For all that do these things are an abomination unto the LORD: and because of th
 
 ## For those who aren't religious and don't believe in God:<br>
 
-You are entitled to your beliefs just as I am entitled to mine, please do not think that I am against you in any way.
-<br>
+You are entitled to your beliefs just as I am entitled to mine.
 
 Please feel free to reach out and ask me about my journey and testimony, let me hear yours. I've experienced and have been through alot, maybe you have too.
 
