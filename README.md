@@ -11,24 +11,32 @@ My projects are currently under development. I've put a sneak peek of a few here
 
 I'm creating and designing as I am learning and going to school. I do not consider myself a professional, I believe in the eyes of God we are all students and technically always will be.<br><br>I am a student of **Torah** first and *everything else is secondary*.<br><br> Currently, I've lately have been focusing more on learning comp-sci related technology so that I can apply it to my Hebrew, Bible, and Math studies. 
 <br><br>
-
-## This is the beginning and the start of my journey for my research in a more structured and professional way 
-### Please pray that I may have peace, blessings, and success on this and any other future projects.
+I have decided to pursue Software Engineering and Full Stack Development<br><br>I like designing, and I am passionate to learn and understand how things works on the front end and back end. I have some prior knowledge and work of doing sysadmin duties working mostly with assorted servers and services on openBSD and Linux.<br>
 
 
-## For those who are religious and believe in God:<br>
-**Please** by no means **think** that I am trying to portray myself as some sort of **"wizard, sorcerer, necromancer, idol, or witch"** as many do today within the programming, coding, infosec, and cybersecurity community.<br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. I am truly passionate about **Hebrew** & **numbers**, along with the **Bible**. *Since* well, they make up the **Bible/Torah**.
+## For those who are religious and believe in God:<br><br>
 
-### This github was not created purposely to offend or disrespect anyone purposely
-## I am passionate about my beliefs and feel strong in the authenticity of God's word
+## This is the beginning and the start of my journey for my research in a more structured and professional way<br>
+
+	** ATTENTION **
+	
+ **Please** by no means **think** that I am trying to portray myself as some sort of **"wizard, sorcerer, necromancer, idol, or witch"** as many do today within the 		programming, coding, infosec, and cybersecurity community.
+ 	<br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. 
+  	I am 	truly passionate about **Hebrew** & **numbers**, along with the **Bible**. *Since* well, they make up the **Bible/Torah**. **
+
+**Please pray for me that I may receive peace, blessings, and succes in my research, projects, or any other future endevaors I may work on.**
+
+
+### This github was not created purposely to offend or disrespect anyone 
 
 
 ## For those who aren't religious and don't believe in God:<br>
 
+You are entitled to your beliefs just as I am entitled to mine, please do not think that I am against you or purposely trying to attack you.
+
+Please feel free to reach out and talk to me and ask me about my journey and testimony, and let me hear yours. Perhaps it may turn into a great and real frienship.
 
 Follow my GitHub and say hello! Thanks!
-
-
 
 <h3>Things I code with</h3>
 <p>
