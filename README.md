@@ -1,10 +1,11 @@
 # Welcome to My Git Page!
 <br>
+<br>
 <div id="header" align="center">
-  <img src="https://www.the101lab.com/carbon.png" width=""/>
+  <img src="https://www.the101lab.com/carbon.png" height="460" width="720"/>
 </div>
-
-
+<br>
+<br><br>
 
 
 
