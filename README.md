@@ -111,6 +111,9 @@ I have some prior knowledge and work doing sysadmin duties working mostly with a
 
 <h3>My latest posts</h3>
 
+
+<hr>
+
 I'm **Ryan**, a *Software Engineer* in training from **Canada**, currently living in *Winnipeg, MB*.
 
 My projects are currently under development. 
@@ -134,12 +137,16 @@ I have decided to pursue Software Engineering and Full Stack Development<br><br>
  
  **"wizard, sorcerer, god, necromancer, idol, or witch"** as many do today within the programming, coding, infosec, and cybersecurity community. 
  
+ <hr>
+ 
  As I know some find no harm in referring to themselves by these terms or names, based upon my beliefs it states:<br><br><table><tr>**KJV Deuteronomy 18:10-13**<br><br><td>
  
 There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch. Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer. 
 
 For all that do these things are an abomination unto the LORD: and because of these abominations the LORD  thy God doth drive them out from before thee. Thou shalt be perfect with the LORD thy God."</td></tr></table>
- 	
+
+  <hr>
+  
   <br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. 
   	I am 	truly passionate about **Hebrew** & **numbers**, along with the **Bible**. 
    		
