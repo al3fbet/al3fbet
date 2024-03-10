@@ -38,8 +38,9 @@ There shall not be found among you any one that maketh his son or his daughter t
 For all that do these things are an abomination unto the LORD: and because of these abominations the LORD  thy God doth drive them out from before thee. Thou shalt be perfect with the LORD thy God."</td></tr></table>
  	
   <br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. 
-  	I am 	truly passionate about **Hebrew** & **numbers**, along with the **Bible**. *Since* well, they make up the **Bible/Torah**. **
-
+  	I am 	truly passionate about **Hebrew** & **numbers**, along with the **Bible**. 
+   		
+   
 **Please pray for me that I may receive peace, blessings, and succes in my research, projects, or any other future endevaors I may work on.**
 
 
