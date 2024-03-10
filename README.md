@@ -1,7 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h2>First & Foremost I would like to declare that by in no way was this page/profile created to serve as any kind of shrine or idol</h2><br>
+<h3>Technology is meant to be respected, it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped</h3><br>
+<br>
+<p><strong></strong></p>
 
-
-<p>Welcome to my page! </br> I'm Ryan, Software Engineer in training from <b>Canada</b>, currently living in <b>Winnipeg, Mb</b>. </p>
+<p>Welcome to my page! <br></br> I'm Ryan, Software Engineer in training from <b>Canada</b>, currently living in <b>Winnipeg, Mb</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
