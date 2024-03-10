@@ -15,7 +15,7 @@
 
 <strong>`First and Foremost`</strong>
 
-<strong>` ** I would like to declare that in no way was this page or profile created to serve as any kind of shrine or idol **.`</strong>
+<strong>`**I would like to declare that in no way was this page or profile created to serve as any kind of shrine or idol**`</strong>
 ```
 Technology is meant to be respected;
 
