@@ -2,7 +2,7 @@
 <br>
 <br>
 <div id="header" align="center">
-  <img src="https://www.the101lab.com/carbon.png" height="460" width="720"/>
+  <img src="https://www.the101lab.com/carbon.png" height="460" width="1080"/>
 </div>
 <br>
 <br><br>
