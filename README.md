@@ -7,15 +7,18 @@ I would like to declare that in **no way** was this *page or profile* created to
 
 This page and my portfolio is to serve or aid in my learning process and research all while collaborating with other cool and like minded developers.
 
-I'm Ryan, a Software Engineer in training from Canada, currently living in Winnipeg, MB.
+I'm **Ryan**, a *Software Engineer* in training from **Canada**, currently living in *Winnipeg, MB*.
 
 My projects are currently under development. 
 
-I've put a sneak peek of a few here on GitHub. I will be working on and contributing to my projects constantly throughout the week, God willing. 
+I've put a sneak peek of a few here on GitHub. 
 
-I'm creating and designing as I am learning and going to school. I do not consider myself a professional, I believe in the eyes of God we are all students and technically always will be.<br><br>I am a student of **Torah** first and *everything else is secondary*.<br><br> Currently, I've lately have been focusing more on learning comp-sci related technology so that I can apply it to my Hebrew, Bible, and Math studies. 
-<br><br>
+I will be working on and contributing to my projects constantly throughout the week, God willing. 
+
+I'm creating and designing as I am learning and going to school. I do not consider myself a professional, I believe in the eyes of God we are all students and technically always will be.<br><br>I am a student of **Torah** first and *everything else is secondary*.<br><br> Currently, I've lately been focusing more on learning comp-sci so that I can apply it to my Hebrew, Bible, and Math studies in the future.  
+
 I have decided to pursue Software Engineering and Full Stack Development<br><br>I like designing, and I am passionate to learn and understand how things works on the front end and back end.<br><br>I have some prior knowledge and work doing sysadmin duties working mostly with assorted servers and services on openBSD and Linux.<br>
+
 
 
 ## For those who are religious and believe in God:<br><br>
@@ -24,8 +27,17 @@ I have decided to pursue Software Engineering and Full Stack Development<br><br>
 
 	** ATTENTION **
 	
- **Please** by no means **think** that I am trying to portray myself as some sort of **"wizard, sorcerer, necromancer, idol, or witch"** as many do today within the 		programming, coding, infosec, and cybersecurity community.
- 	<br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. 
+ **Please** by no means **think** that I am trying to portray myself as some sort of: <br>
+ 
+ **"wizard, sorcerer, god, necromancer, idol, or witch"** as many do today within the programming, coding, infosec, and cybersecurity community. 
+ 
+ As I know some find no harm in referring to themselves by these terms or names, based upon my beliefs it states:<br><br><table><tr>**KJV Deuteronomy 18:10-13**<br><br><td>
+ 
+There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch. Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer. 
+
+For all that do these things are an abomination unto the LORD: and because of these abominations the LORD  thy God doth drive them out from before thee. Thou shalt be perfect with the LORD thy God."</td></tr></table>
+ 	
+  <br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. 
   	I am 	truly passionate about **Hebrew** & **numbers**, along with the **Bible**. *Since* well, they make up the **Bible/Torah**. **
 
 **Please pray for me that I may receive peace, blessings, and succes in my research, projects, or any other future endevaors I may work on.**
@@ -95,5 +107,5 @@ Follow my GitHub and say hello!<br><br> Thanks!
 </table>
 <h3>My latest posts</h3>
 <hr>
-
+<h2>This section is under development</h2>
 </html>
