@@ -1,7 +1,24 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h2>First & Foremost I would like to declare that by in no way was this page/profile created to serve as any kind of shrine or idol</h2>
-<h3>Technology is meant to be respected, it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped</h3><br>
-<p>Welcome to my page! <br></br> I'm Ryan, Software Engineer in training from <b>Canada</b>, currently living in <b>Winnipeg, Mb</b>. </p>
+# Welcome to My Page!
+
+*First and foremost*, I would like to declare that in **no way** was this *page/profile* created to serve as any kind of shrine or idol. Technology is meant to be *respected*; it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
+
+I'm Ryan, a Software Engineer in training from Canada, currently living in Winnipeg, MB.
+
+My projects are currently under development. I've put a sneak peek of a few on GitHub. I will be working on and contributing to my projects constantly throughout the week, God willing.
+
+I'm creating and designing as I am learning and going to school.
+
+## For those who are religious and believe in God:<br>
+**Please** by no means **think** that I am trying to portray myself as some sort of **"wizard, sorcerer, necromancer, idol, or witch"** as many do today within the programming, coding, infosec, and cybersecurity community.<br><br>I am a student of God and Torah first.<br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. I am truly passionate about **Hebrew** & **numbers**, along with **Bible**. *Since* well, they make up the **Bible or Torah itself**.
+
+
+## For those who aren't religious and don't believe in God:<br>
+
+
+Follow my GitHub and say hello! Thanks!
+
+
+
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -52,3 +69,5 @@
 </table>
 <h3>My latest posts</h3>
 <hr>
+
+</html>
