@@ -1,15 +1,26 @@
 # Welcome to My Page!
+<br>
 
-*First and foremost*, I would like to declare that in **no way** was this *page/profile* created to serve as any kind of shrine or idol. Technology is meant to be *respected*; it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
+*First and foremost*,
+
+I would like to declare that in **no way** was this *page/profile* created to serve as any kind of shrine or idol. Technology is meant to be *respected*; it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
 
 I'm Ryan, a Software Engineer in training from Canada, currently living in Winnipeg, MB.
 
-My projects are currently under development. I've put a sneak peek of a few on GitHub. I will be working on and contributing to my projects constantly throughout the week, God willing.
+My projects are currently under development. I've put a sneak peek of a few here on GitHub. I will be working on and contributing to my projects constantly throughout the week, God willing. 
 
-I'm creating and designing as I am learning and going to school.
+I'm creating and designing as I am learning and going to school. I do not consider myself a professional, I believe in the eyes of God we are all students and technically always will be.<br><br>I am a student of **Torah** first and *everything else is secondary*.<br><br> Currently, I've lately have been focusing more on learning comp-sci related technology so that I can apply it to my Hebrew, Bible, and Math studies. 
+<br><br>
+
+## This is the beginning and the start of my journey for my research in a more structured and professional way 
+### Please pray that I may have peace, blessings, and success on this and any other future projects.
+
 
 ## For those who are religious and believe in God:<br>
-**Please** by no means **think** that I am trying to portray myself as some sort of **"wizard, sorcerer, necromancer, idol, or witch"** as many do today within the programming, coding, infosec, and cybersecurity community.<br><br>I am a student of God and Torah first.<br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. I am truly passionate about **Hebrew** & **numbers**, along with **Bible**. *Since* well, they make up the **Bible or Torah itself**.
+**Please** by no means **think** that I am trying to portray myself as some sort of **"wizard, sorcerer, necromancer, idol, or witch"** as many do today within the programming, coding, infosec, and cybersecurity community.<br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. I am truly passionate about **Hebrew** & **numbers**, along with the **Bible**. *Since* well, they make up the **Bible/Torah**.
+
+### This github was not created purposely to offend or disrespect anyone purposely
+## I am passionate about my beliefs and feel strong in the authenticity of God's word
 
 
 ## For those who aren't religious and don't believe in God:<br>
