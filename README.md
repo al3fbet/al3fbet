@@ -13,13 +13,26 @@
 
 
 
-*First and foremost*,
+<strong>`First and Foremost`</strong>
 
-I would like to declare that in **no way** was this *page or profile* created to serve as any kind of shrine or idol. 
+<strong>` ** I would like to declare that in no way was this page or profile created to serve as any kind of shrine or idol **.`</strong>
+```
+Technology is meant to be respected;
 
-**Technology is meant** to be *respected*; it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
+It is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
 
-This page and my portfolio is to serve or aid in my learning process and research all while collaborating with other cool and like minded developers.
+This page and my portfolio is to serve or aid in my learning process and research.
+
+Looking too collaborate with other cool and like minded people/developers.
+```
+<hr>
+<h1>ryanorion@git:~$ whoami </h1>
+
+<div id="header" align="center">
+  <img src="https://www.hackersforjesus.xyz/kewtcat.jpg" height="460" width="1080/>
+</div><br><br>
+	  
+
 
 I'm **Ryan**, a *Software Engineer* in training from **Canada**, currently living in *Winnipeg, MB*.
 
