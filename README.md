@@ -1,17 +1,21 @@
-# Welcome to My Page!
+# Welcome to My Git Page!
 <br>
 
 *First and foremost*,
 
-I would like to declare that in **no way** was this *page/profile* created to serve as any kind of shrine or idol. Technology is meant to be *respected*; it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
+I would like to declare that in **no way** was this *page or profile* created to serve as any kind of shrine or idol. Technology is meant to be *respected*; it is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
+
+This page and my portfolio is to serve or aid in my learning process and research all while collaborating with other cool and like minded developers.
 
 I'm Ryan, a Software Engineer in training from Canada, currently living in Winnipeg, MB.
 
-My projects are currently under development. I've put a sneak peek of a few here on GitHub. I will be working on and contributing to my projects constantly throughout the week, God willing. 
+My projects are currently under development. 
+
+I've put a sneak peek of a few here on GitHub. I will be working on and contributing to my projects constantly throughout the week, God willing. 
 
 I'm creating and designing as I am learning and going to school. I do not consider myself a professional, I believe in the eyes of God we are all students and technically always will be.<br><br>I am a student of **Torah** first and *everything else is secondary*.<br><br> Currently, I've lately have been focusing more on learning comp-sci related technology so that I can apply it to my Hebrew, Bible, and Math studies. 
 <br><br>
-I have decided to pursue Software Engineering and Full Stack Development<br><br>I like designing, and I am passionate to learn and understand how things works on the front end and back end. I have some prior knowledge and work of doing sysadmin duties working mostly with assorted servers and services on openBSD and Linux.<br>
+I have decided to pursue Software Engineering and Full Stack Development<br><br>I like designing, and I am passionate to learn and understand how things works on the front end and back end.<br><br>I have some prior knowledge and work doing sysadmin duties working mostly with assorted servers and services on openBSD and Linux.<br>
 
 
 ## For those who are religious and believe in God:<br><br>
@@ -33,10 +37,13 @@ I have decided to pursue Software Engineering and Full Stack Development<br><br>
 ## For those who aren't religious and don't believe in God:<br>
 
 You are entitled to your beliefs just as I am entitled to mine, please do not think that I am against you or purposely trying to attack you.
+<br>
 
-Please feel free to reach out and talk to me and ask me about my journey and testimony, and let me hear yours. Perhaps it may turn into a great and real frienship.
+Please feel free to reach out and ask me about my journey and testimony, let me hear yours. I've experienced and have been through alot, maybe you have too.
 
-Follow my GitHub and say hello! Thanks!
+Perhaps it may turn into a great and real friendship.
+
+Follow my GitHub and say hello!<br><br> Thanks!
 
 <h3>Things I code with</h3>
 <p>
