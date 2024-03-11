@@ -32,7 +32,7 @@ Looking too collaborate with other cool and like minded people/developers.
 <h1>ryanorion@git:~$ whoami </h1>
 
 <div id="header" align="center">
-  <img src="https://www.hackersforjesus.xyz/kewtcat.jpg" height="280" width="1080/>
+  <img src="https://www.hackersforjesus.xyz/kewtcat.jpg" height="280" width="800/>
 </div>
 	  </center>
 
