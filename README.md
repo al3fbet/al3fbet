@@ -2,7 +2,7 @@
 <br>
 <br>
 
-###  Check out a test version of GEMatria
+###  Check out a test version of GEMatria v0.1
 
 <div id="header" align="center">
   <img src="https://www.the101lab.com/carbon.png" height="460" width="1080"/>
