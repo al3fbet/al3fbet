@@ -36,27 +36,6 @@ Looking too collaborate with other cool and like minded people/developers.
 </div>
 	  </center>
 
-   
-```I'm Ryan, a Software Engineer in training from Canada, currently living in Winnipeg, MB.
-
-My projects are currently under development.
-
-I've put a sneak peek of a few here on GitHub.
-
-I will be working on and contributing to my projects constantly throughout the week, God willing.
-
-I'm creating and designing as I am learning and going to school. I do not consider myself a professional, I believe in the eyes of God we are all students and technically always will be.
-
-I am a student of Torah first and everything else is secondary.
-
-Currently, I've lately been focusing more on learning comp-sci so that I can apply it to my Hebrew, Bible, and Math studies in the future.
-
-I have decided to pursue Software Engineering and Full Stack Development
-
-I like designing, and I am passionate to learn and understand how things work on the front end and back end.
-
-I have some prior knowledge and work doing sysadmin duties working mostly with assorted servers and services on openBSD and Linux.
-```
 
 
 # Things I code with
