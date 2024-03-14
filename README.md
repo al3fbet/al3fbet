@@ -2,6 +2,11 @@
 <br>
 <br>
 
+
+<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=al3fbet&show_icons=true&theme=tokyonight" /></h4>
+
+
+
 ###  Check out a test version of GEMatria v0.1
 
 <div id="header" align="center">
