@@ -34,15 +34,6 @@ This page and my portfolio is to serve or aid in my learning and research.
 Looking too collaborate with other cool and like minded people/developers.
 ```
 <hr>
-<h1>ryanorion@git:~$ whoami </h1>
-
-<div id="header" align="center">
-  <img src="https://www.hackersforjesus.xyz/kewtcat.jpg" height="280" width="800/>
-</div>
-	  </center>
-
-
-
 # Things I code with
 
 
@@ -97,22 +88,6 @@ Looking too collaborate with other cool and like minded people/developers.
 </table>
 
 <h3>My latest posts</h3>
-
-
-<hr>
-
-I'm **Ryan**, a *Software Engineer* in training from **Canada**, currently living in *Winnipeg, MB*.
-
-My projects are currently under development. 
-
-I've put a sneak peek of a few here on GitHub. 
-
-I will be working on and contributing to my projects constantly throughout the week, God willing. 
-
-I'm creating and designing as I am learning and going to school. I do not consider myself a professional, I believe in the eyes of God we are all students and technically always will be.<br><br>I am a student of **Torah** first and *everything else is secondary*.<br><br> Currently, I've lately been focusing more on learning comp-sci so that I can apply it to my Hebrew, Bible, and Math studies in the future.  
-
-I have decided to pursue Software Engineering and Full Stack Development<br><br>I like designing, and I am passionate to learn and understand how things work on the front end and back end.<br><br>I have some prior knowledge and work doing sysadmin duties working mostly with assorted servers and services on openBSD and Linux.<br>
-
 
 
 ## For those who are religious and believe in God:<br><br>
