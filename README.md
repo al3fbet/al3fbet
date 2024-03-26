@@ -21,21 +21,8 @@
 
 
 
-<strong>`First and Foremost`</strong>
-
-<strong>`**I would like to declare that in no way was this page or profile created to serve as any kind of shrine or idol**`</strong>
-```
-Technology is meant to be respected;
-
-It is not meant to be placed above God, or equal to God, nor is it meant to be worshipped.
-
-This page and my portfolio is to serve or aid in my learning and research.
-
-Looking too collaborate with other cool and like minded people/developers.
-```
 <hr>
 # Things I code with
-
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -87,46 +74,5 @@ Looking too collaborate with other cool and like minded people/developers.
   </tbody>
 </table>
 
-<h3>My latest posts</h3>
-
-
-## For those who are religious and believe in God:<br><br>
-
-
-	** ATTENTION **
-	
- **Please** by no means **think** that I am trying to portray myself as some sort of: <br>
- 
- **"wizard, sorcerer, god, necromancer, idol, or witch"** as many do today within the programming, coding, infosec, and cybersecurity community. 
- 
- <hr>
- 
- As I know some find no harm in referring to themselves by these terms or names, based upon my beliefs it states:<br><br><table><tr>**KJV Deuteronomy 18:10-13**<br><br><td>
- 
-There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch. Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer. 
-
-For all that do these things are an abomination unto the LORD: and because of these abominations the LORD  thy God doth drive them out from before thee. Thou shalt be perfect with the LORD thy God."</td></tr></table>
-
-  <hr>
-  
-  <br><br>**By no means think that I am trying to disrespect God's word** in *any deliberate way or form*. 
-  	I am 	truly passionate about **Hebrew** & **numbers**, along with the **Bible**. 
-   		
-   
-**Please pray for me that I may receive peace, blessings, and succes in my research, projects, or any other future endevaors I may work on.**
-
-
-### This github was not created purposely to offend or disrespect anyone 
-
-
-## For those who aren't religious and don't believe in God:<br>
-
-You are entitled to your beliefs just as I am entitled to mine.
-
-Please feel free to reach out and ask me about my journey and testimony, let me hear yours. I've experienced and have been through alot, maybe you have too.
-
-Follow my GitHub and say hello!<br><br> Thanks!
-
-<hr>
 <h2>This section is under development</h2>
 </html>
